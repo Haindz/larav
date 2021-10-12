@@ -4,7 +4,7 @@
 			<div class="col-lg-12">
 				<!-- section title -->
 				<div class="title text-center">
-					<h2>Our <span class="color">Works</span></h2>
+					<h2>Our <span class="color">Game</span></h2>
 					<div class="border"></div>
 				</div>
 				<!-- /section title -->
@@ -14,127 +14,118 @@
 			<div class="col-md-12">
 				<div class="portfolio-filter">
 					<button class="active" type="button" data-filter="all">All</button>
-					<button type="button" data-filter="photography">Photography</button>
-					<button type="button" data-filter="design">Design</button>
-					<button type="button" data-filter="development">Development</button>
+					<button type="button" data-filter="mobile-legends">Mobile Legends</button>
+					<button type="button" data-filter="pubg">PUBG</button>
+					<button type="button" data-filter="free-fire">Free Fire</button>
 				</div>
 			</div>
 		</div>
 		<div class="row filtr-container">
-			<div class="col-lg-4 filtr-item" data-category="development">
+			<div class="col-lg-4 filtr-item" data-category="mobile-legends">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-1.jpg" alt="">
+					<img src="images/portfolio/prml.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-1.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Tag Design</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">Akun Mobile Legends 1</a></h4>
+						<p>Skin: 14 | Rank: Master Emblem: Max | Hero: 25 Emote: 11 | Recall: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="design">
+			<div class="filtr-item col-md-4"  data-category="mobile-legends">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-2.jpg" alt="">
+					<img src="images/portfolio/prml.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-2.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Sound system</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">Akun Mobile Legends 2</a></h4>
+						<p>Skin: 14 | Rank: Master Emblem: Max | Hero: 25 Emote: 11 | Recall: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="design, development">
+			<div class="filtr-item col-md-4" data-category="mobile-legends">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-3.jpg" alt="">
+					<img src="images/portfolio/prml.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-3.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Clock Product</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">Akun Mobile Legends 3</a></h4>
+						<p>Skin: 14 | Rank: Master Emblem: Max | Hero: 25 Emote: 11 | Recall: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="photography, development">
+			<div class="filtr-item col-md-4" data-category="pubg">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-4.jpg" alt="">
+					<img src="images/portfolio/prpubg.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-4.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Bottol Label</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">PUBG 1</a></h4>
+						<p>Skin: 14 | Diamond: 2300 FPP: Bronze | TPP: Silver Emote: 11 | Parachute: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="design">
+			<div class="filtr-item col-md-4" data-category="pubg">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-5.jpg" alt="">
+					<img src="images/portfolio/prpubg.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-5.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Shopping Bag</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">PUBG 2</a></h4>
+						<p>Skin: 14 | Diamond: 2300 FPP: Bronze | TPP: Silver Emote: 11 | Parachute: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="photography">
+			<div class="filtr-item col-md-4" data-category="pubg">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-6.jpg" alt="">
+					<img src="images/portfolio/prpubg.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-6.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Tag Design</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">PUBG 3</a></h4>
+						<p>Skin: 14 | Diamond: 2300 FPP: Bronze | TPP: Silver Emote: 11 | Parachute: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="design">
+			<div class="filtr-item col-md-4" data-category="free-fire">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-7.jpg" alt="">
+					<img src="images/portfolio/prff.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-7.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Business Card</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">Free Fire 1</a></h4>
+						<p>Skin: 14 | Diamond: 2300 Rank: Master | CS: Platinum Emote: 11 | Parachute: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="design">
+			<div class="filtr-item col-md-4" data-category="free-fire">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-8.jpg" alt="">
+					<img src="images/portfolio/prff.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-8.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Stationary Design</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">Free Fire 2</a></h4>
+						<p>Skin: 14 | Diamond: 2300 Rank: Master | CS: Platinum Emote: 11 | Parachute: 15</p>
 					</div>
 				</div>
 			</div>
-			<div class="filtr-item col-md-4" data-category="photography, development">
+			<div class="filtr-item col-md-4" data-category="free-fire">
 				<div class="portfolio-block">
-					<img class="img-responsive" src="images/portfolio/portfolio-1.jpg" alt="">
+					<img src="images/portfolio/prff.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="images/portfolio/portfolio-1.jpg"
-							data-lightbox="image-1">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
-						<h4><a href="">Tag Design</a></h4>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
+						<h4><a href="">Free Fire 3</a></h4>
+						<p>Skin: 14 | Diamond: 2300 Rank: Master | CS: Platinum Emote: 11 | Parachute: 15</p>
 					</div>
 				</div>
 			</div>

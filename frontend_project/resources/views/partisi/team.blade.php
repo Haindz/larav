@@ -22,8 +22,8 @@
 							<ul class="list-inline">
 								<li><a href="#"><i class="tf-ion-social-facebook"></i></a></li>
 								<li><a href="#"><i class="tf-ion-social-twitter"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-linkedin"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-dribbble-outline"></i></a></li>
+								<li><a href="#"><i class="tf-ion-social-youtube"></i></a></li>
+								<li><a href="#"><i class="tf-ion-social-github"></i></a></li>
 							</ul>
 						</div>
 						<!-- /member social profile -->
@@ -31,46 +31,14 @@
 					
 					<!-- member name & designation -->
 					<div class="member-meta">
-						<h4>Abul Mal Muhit</h4>
-						<span>CEO/Founder</span>
+						<h4>Armandino Santoso Putra</h4>
+						<span>XI TJA 1/Hacker B</span>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
 					</div>
 					<!-- /member name & designation -->
 					<!-- /about member -->
 				   
                </div>
-            </div>
-			<!-- end team member -->
-			
-			<!-- team member -->
-			<div class="col-md-3 col-sm-6 col-xs-12 wow fadeInDown" data-wow-duration="500ms" data-wow-delay="200ms">
-               <div class="team-member">
-					<div class="member-photo">
-						<!-- member photo -->
-						<img class="img-responsive" src="images/team/team-2.jpg" alt="Meghna">
-						<!-- /member photo -->
-						
-						<!-- member social profile -->
-						<div class="mask">
-							<ul class="list-inline">
-								<li><a href="#"><i class="tf-ion-social-facebook"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-twitter"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-linkedin"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-dribbble-outline"></i></a></li>
-							</ul>
-						</div>
-						<!-- /member social profile -->
-					</div>
-					
-					<!-- member name & designation -->
-					<div class="member-meta">
-						<h4>Frank Miller</h4>
-						<span>Manager</span>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
-					</div>
-					<!-- /member name & designation -->
-					<!-- /about member -->
-				</div>
             </div>
 			<!-- end team member -->
 			
@@ -87,8 +55,8 @@
 							<ul class="list-inline">
 								<li><a href="#"><i class="tf-ion-social-facebook"></i></a></li>
 								<li><a href="#"><i class="tf-ion-social-twitter"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-linkedin"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-dribbble-outline"></i></a></li>
+								<li><a href="#"><i class="tf-ion-social-youtube"></i></a></li>
+								<li><a href="#"><i class="tf-ion-social-github"></i></a></li>
 							</ul>
 						</div>
 						<!-- /member social profile -->
@@ -96,8 +64,8 @@
 					
 					<!-- member name & designation -->
 					<div class="member-meta">
-						<h4>Michael Jonson</h4>
-						<span>Web Developer</span>
+						<h4>Much. Hafidz Indrajid</h4>
+						<span>XI TJA 1/Hacker B</span>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
 					</div>
 					<!-- /member name & designation -->
@@ -119,8 +87,8 @@
 							<ul class="list-inline">
 								<li><a href="#"><i class="tf-ion-social-facebook"></i></a></li>
 								<li><a href="#"><i class="tf-ion-social-twitter"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-linkedin"></i></a></li>
-								<li><a href="#"><i class="tf-ion-social-dribbble-outline"></i></a></li>
+								<li><a href="#"><i class="tf-ion-social-youtube"></i></a></li>
+								<li><a href="#"><i class="tf-ion-social-github"></i></a></li>
 							</ul>
 						</div>
 						<!-- /member social profile -->
@@ -128,8 +96,8 @@
 					
 					<!-- member name & designation -->
 					<div class="member-meta">
-						<h4>Mo. Kha. Alamgir</h4>
-						<span>SEO Specialist</span>
+						<h4>Shinta Putri Nirmala</h4>
+						<span>XI TJA 7/Hacker A</span>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
 					</div>
 					<!-- /member name & designation -->

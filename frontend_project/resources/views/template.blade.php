@@ -13,13 +13,14 @@
 
 	<meta name="author" content="Muhammad Morshed">
 
-	<title>Meghna | Responsive Multipurpose Parallax HTML5</title>
+	<title>SLALUADASTOCK</title>
 
 	<!-- Mobile Specific Meta
 		================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- Favicon -->
+	<link rel="icon" type="image/png" href="images/icons/iki.ico"/>
 	<!-- <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png" /> -->
 
 	<!-- CSS
@@ -68,49 +69,17 @@
 @include('partisi.header')
 <!--End Fixed Navigation==================================== -->
 
-<!--Start About Section==================================== -->
-@include('partisi.about')   
+<!--Start Portofolio Section==================================== -->
+@include('partisi.portofolio')   
 <!-- End section -->
-
-<!--Start Call To Action==================================== -->
-@include('partisi.action')   
-<!-- End section -->
-
-<!-- Start Services Section==================================== -->
-@include('partisi.services')  
-<!-- End section -->
-	
-<!-- Start Team Skills=========================================== -->
-@include('partisi.skills') 
-<!-- End section -->
-
-<!-- Start Portfolio Section=========================================== -->
-@include('partisi.portofolio') 
-<!-- End section -->
-
-<!--Start Counter Section==================================== -->
-@include('partisi.counter') 
-<!-- end section -->
 
 <!-- Start Our Team=========================================== -->
 @include('partisi.team')   
 <!-- End section -->
-		
-<!-- Start Pricing section=========================================== -->
-@include('partisi.pricing')  
-<!-- End section -->
 
-<!-- Start Testimonial=========================================== -->
-@include('partisi.testimoni')    
+<!-- Start Contact Us=========================================== -->
+@include('partisi.contact')    
 <!-- End Section -->
-
-<!-- Start Blog Section =========================================== -->
-@include('partisi.blog') 
-<!-- end section -->
-
-<!-- Srart Contact Us=========================================== -->		
-@include('partisi.contact') 
-<!-- end section -->
 	
 <!-- end Contact Area========================================== -->
 @include('partisi.footer')

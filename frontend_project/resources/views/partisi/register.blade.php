@@ -2,22 +2,22 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>RegistrationForm_v1 by Colorlib</title>
+		<title>Registration</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<!-- MATERIAL DESIGN ICONIC FONT -->
 		<link rel="stylesheet" href="fonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
-
+		<link rel="icon" type="image/png" href="images/icons/iki.ico"/>
 		<!-- STYLE CSS -->
 		<link rel="stylesheet" href="css/style1.css">
 	</head>
 
 	<body>
 
-		<div class="wrapper" style="background-image: url('images/bg-registration-form-1.jpg');">
+		<div class="wrapper" style="background-image: url('images/bgreg.jpg');">
 			<div class="inner">
 				<div class="image-holder">
-					<img src="images/registration-form-1.jpg" alt="">
+					<img src="images/regis.jpg" alt="">
 				</div>
 				<form action="">
 					<h3>Registration Form</h3>

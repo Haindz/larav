@@ -7,9 +7,9 @@
 				<div class="social-icon">
 					<ul class="list-inline">
 						
-						<li><a href="https://www.instagram.com/havdz_/"><i class="tf-ion-social-instagram"></i></a></li>
-						<li><a href="https://www.youtube.com/channel/UCx9qVW8VF0LmTi4OF2F8YdA"><i class="tf-ion-social-instagram"></i></a></li>
-						<li><a href="https://dribbble.com/themefisher"><i class="tf-ion-social-instagram"></i></a></li>
+						<li><a href="https://www.instagram.com/dino.arman"><i class="tf-ion-social-instagram"></i></a></li>
+						<li><a href="https://www.instagram.com/havdz_"><i class="tf-ion-social-instagram"></i></a></li>
+						<li><a href="http://www.instagram.com/shinptrn"><i class="tf-ion-social-instagram"></i></a></li>
 						
 					</ul>
 				</div>
@@ -17,7 +17,7 @@
 
 				<!-- copyright -->
 				<div class="copyright text-center">
-					<a href="index.html">
+					<a href="#body">
 						<!-- <img src="images/logo-meghna.png" alt="Meghna" />  -->
 						<svg width="40px" height="40px" viewBox="0 0 45 44" version="1.1"
 							xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

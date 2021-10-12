@@ -1,4 +1,4 @@
-<section class="hero-area overlay" style="background-image: url('images/banner/hero-area.jpg');">
+<section class="hero-area overlay" style="background-image: url('images/banner/download1.jpg');">
 	<!-- <video autoplay muted loop class="hero-video">
 		<source src="images/banner/hero-video.mp4" type="video/mp4">
 	</video> -->
