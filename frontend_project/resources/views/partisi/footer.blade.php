@@ -6,11 +6,11 @@
 				<!-- Footer Social Links -->
 				<div class="social-icon">
 					<ul class="list-inline">
-						
 						<li><a href="https://www.instagram.com/dino.arman"><i class="tf-ion-social-instagram"></i></a></li>
+						<li><a href="{{url('partisi.faq')}}"><i class="tf-ion-android-search"></i></a></li>
 						<li><a href="https://www.instagram.com/havdz_"><i class="tf-ion-social-instagram"></i></a></li>
+						<li><a href="#our-team"><i class="tf-ion-android-search"></i></a></li>
 						<li><a href="http://www.instagram.com/shinptrn"><i class="tf-ion-social-instagram"></i></a></li>
-						
 					</ul>
 				</div>
 				<!--/. End Footer Social Links -->

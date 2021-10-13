@@ -62,7 +62,7 @@
 							Forgot
 						</span>
 						<a class="txt2" href="{{url('partisi.forgetpass')}}">
-							Username / Password?
+							 Password?
 						</a>
 					</div>
 

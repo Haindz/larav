@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>SLALUADASTOCK</title>
+    <title>Info Akun</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -83,7 +83,7 @@
 	<div class="row">	  
 			<div id="gallery" class="span3">
             <a href="themes/images/products/large/ml.jpg" title="Mobile Legends 1">
-				<img src="themes/images/products/large/ml.jpg" style="width:100%" alt="Fujifilm FinePix S2950 Digital Camera"/>
+				<img src="themes/images/products/large/ml.jpg" style="width:100%" alt="Mobile Legends 1"/>
             </a>
 			<div id="differentview" class="moreOptopm carousel slide">
                 <div class="carousel-inner">
@@ -149,17 +149,7 @@
 		<div class="row wow fadeInUp" data-wow-duration="500ms">
 			<div class="col-lg-12">
 
-				<!-- Footer Social Links -->
-				<div class="social-icon">
-					<ul class="list-inline">
-						
-						<li><a href="https://www.instagram.com/dino.arman"><i class="tf-ion-social-instagram"></i></a></li>
-						<li><a href="https://www.instagram.com/havdz_"><i class="tf-ion-social-instagram"></i></a></li>
-						<li><a href="http://www.instagram.com/shinptrn"><i class="tf-ion-social-instagram"></i></a></li>
-						
-					</ul>
-				</div>
-				<!--/. End Footer Social Links -->
+				
 
 				<!-- copyright -->
 				<div class="copyright text-center">

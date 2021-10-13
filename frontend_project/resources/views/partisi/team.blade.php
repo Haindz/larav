@@ -4,7 +4,7 @@
 		
 			<!-- section title -->
 			<div class="title text-center wow fadeInUp" data-wow-duration="500ms">
-				<h2>Our <span class="color">Team</span></h2>
+				<h2>About <span class="color">Us</span></h2>
 				<div class="border"></div>
 			</div>
 			<!-- /section title -->

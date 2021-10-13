@@ -8,7 +8,7 @@
     Document Title
     =============================================
     -->
-    <title>SLALUADASTOCK</title>
+    <title>Checkout</title>
     <!--  
     Favicons
     =============================================
@@ -192,17 +192,7 @@
 		<div class="row wow fadeInUp" data-wow-duration="500ms">
 			<div class="col-lg-12">
 
-				<!-- Footer Social Links -->
-				<div class="social-icon">
-					<ul class="list-inline">
-						
-						<li><a href="https://www.instagram.com/dino.arman"><i class="tf-ion-social-instagram"></i></a></li>
-						<li><a href="https://www.instagram.com/havdz_"><i class="tf-ion-social-instagram"></i></a></li>
-						<li><a href="http://www.instagram.com/shinptrn"><i class="tf-ion-social-instagram"></i></a></li>
-						
-					</ul>
-				</div>
-				<!--/. End Footer Social Links -->
+				
 
 				<!-- copyright -->
 				<div class="copyright text-center">

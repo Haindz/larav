@@ -31,7 +31,7 @@
         <ul id="nav" class="nav navbar-nav navigation-menu">
             <li><a data-scroll href="#body">Home</a></li>
             <li><a data-scroll href="#portfolio">Game</a></li>
-            <li><a data-scroll href="#our-team">Team</a></li>
+            <li><a data-scroll href="#our-team">About Us</a></li>
             <li><a data-scroll href="#contact-us">Contact</a></li>
             <li><a data-scroll href="{{url('partisi.testimoni')}}">Testimoni</a></li>
             <li><a href="{{url('partisi.faq')}}">FAQ</a></li>
