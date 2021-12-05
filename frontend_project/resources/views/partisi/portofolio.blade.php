@@ -25,7 +25,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prml.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('ml1')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">Akun Mobile Legends 1</a></h4>
@@ -37,7 +37,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prml.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('ml2')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">Akun Mobile Legends 2</a></h4>
@@ -49,7 +49,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prml.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('ml3')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">Akun Mobile Legends 3</a></h4>
@@ -61,7 +61,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prpubg.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('pubg1')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">PUBG 1</a></h4>
@@ -73,7 +73,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prpubg.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('pubg2')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">PUBG 2</a></h4>
@@ -85,7 +85,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prpubg.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('pubg3')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">PUBG 3</a></h4>
@@ -97,7 +97,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prff.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('ff1')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">Free Fire 1</a></h4>
@@ -109,7 +109,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prff.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('ff2')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">Free Fire 2</a></h4>
@@ -121,7 +121,7 @@
 				<div class="portfolio-block">
 					<img src="images/portfolio/prff.jpg" alt="">
 					<div class="caption">
-						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('partisi.info')}}">
+						<a class="search-icon" data-effect="mfp-with-zoom" href="{{url('ff3')}}">
 							<i class="tf-ion-android-search"></i>
 						</a>
 						<h4><a href="">Free Fire 3</a></h4>
